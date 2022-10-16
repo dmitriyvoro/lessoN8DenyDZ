@@ -1,0 +1,15 @@
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\bin\Debug\net6.0\TASK56.exe
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\bin\Debug\net6.0\TASK56.deps.json
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\bin\Debug\net6.0\TASK56.runtimeconfig.json
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\bin\Debug\net6.0\TASK56.dll
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\bin\Debug\net6.0\TASK56.pdb
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\TASK56.csproj.AssemblyReference.cache
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\TASK56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\TASK56.AssemblyInfoInputs.cache
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\TASK56.AssemblyInfo.cs
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\TASK56.csproj.CoreCompileInputs.cache
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\TASK56.dll
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\refint\TASK56.dll
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\TASK56.pdb
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\TASK56.genruntimeconfig.cache
+C:\Users\DNS_USER\OneDrive\Рабочий стол\lESSon8DZZ\TASK56\obj\Debug\net6.0\ref\TASK56.dll
